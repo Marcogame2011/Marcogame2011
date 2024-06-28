@@ -1,7 +1,9 @@
-- Hi, my name is Marco, i'm Italian🍝🇮🇹
-- I really like Minecraft
-- I like to create texture pack/resource pack for Minecraft.
-- I like also programming in HTML and CSS that I'm learning
+Hi. I'm Alastor and if you think not I can give you some proof:
+1. I'm a radio host
+2. I don't know but I'm Alastor.
+3. THE END
+
+My bio ended, why are you still here?
 
 <!---
 Marcogame2011/Marcogame2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
